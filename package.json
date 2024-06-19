@@ -1,0 +1,29 @@
+{
+  "name": "sidebar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@arco-design/web-vue": "^2.55.2",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "bootstrap-vue-next": "^0.18.1",
+    "core-js": "^3.8.3",
+    "date-fns": "^3.6.0",
+    "firebase": "^8.10.1",
+    "vee-validate": "^4.13.1",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.2",
+    "vue3-date-time-picker": "^2.8.3",
+    "vue3-datepicker": "^0.4.0",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}

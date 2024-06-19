@@ -1,0 +1,94 @@
+{
+    "posts" : [
+        {
+            "name" : "လွန်မင်းသန့်",
+            "sales_on" : "မနီနီဝင်းရွှေ",
+            "sales_out" : "နန်းခမ်း",
+            "order_in" : "ချိုင်နိူင်း",
+            "inventory" : "မစန်းစန်းသူ",
+            "computer" : "မစုစုဝေ",
+            "id" : 1
+        },
+        {
+            "name" : "ရဲမင်းအောင်",
+            "sales_on" : "ရွှေဉ",
+            "sales_out" : "နန်းမွှေဖောင်း",
+            "order_in" : "ဟိန်းမြတ်",
+            "inventory" : "ခိုင်စုဝေ",
+            "computer" : "စိုပြည့်ဦး",
+            "id" : 2
+        },
+        {
+            "name" : "ထွန်းလင်းအောင်",
+            "sales_on" : "ဖြိုးဝင့်ဝါ",
+            "sales_out" : "မနန်းရွှေခင်",
+            "order_in" : "မခိုင်ဝေကျော်",
+            "inventory" : "မခင်ရတနာသွယ်",
+            "computer" : "မကြူကြူခိုင်",
+            "id" : 3
+        },
+        {
+            "name" : "အောင်ဌေး",
+            "sales_on" : "မဖြိူးသူဇာ",
+            "sales_out" : "မခင်ရတနာဦး",
+            "order_in" : "မအိအိဖြိုး",
+            "inventory" : "မဟန်မူယာဝင်း",
+            "computer" : "မမင်းမင်းမြတ်",
+            "id" : 4
+        },
+        {
+            "name" : "အာကာထက်",
+            "sales_on" : "",
+            "sales_out" : "မအမ်ဖောင်း",
+            "order_in" : "မနန်းရတနာ",
+            "inventory" : "မစုစုအောင်",
+            "computer" : "",
+            "id" : 5
+        },
+        {
+            "name" : "ဝေလင်းထွန်း",
+            "sales_on" : "",
+            "sales_out" : "",
+            "order_in" : "",
+            "inventory" : "",
+            "computer" : "",
+            "id" : 6
+        },        
+        {
+            "name" : "အောင်သက်ဦး",
+            "sales_on" : "",
+            "sales_out" : "",
+            "order_in" : "",
+            "inventory" : "",
+            "computer" : "",
+            "id" : 7
+        },
+        {
+            "name" : "နေမျိုးဦး",
+            "sales_on" : "",
+            "sales_out" : "",
+            "order_in" : "",
+            "inventory" : "",
+            "computer" : "",
+            "id" : 8
+        },
+        {
+            "name" : "မောင်ပြည့်စုံ‌ကျော်",
+            "sales_on" : "",
+            "sales_out" : "",
+            "order_in" : "",
+            "inventory" : "",
+            "computer" : "",
+            "id" : 9
+        },
+        {
+            "name" : "မောင်သန်းထိုက်အောင်",
+            "sales_on" : "",
+            "sales_out" : "",
+            "order_in" : "",
+            "inventory" : "",
+            "computer" : "",
+            "id" : 9
+        }
+    ]
+}
